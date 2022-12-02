@@ -1,0 +1,15 @@
+num=int(input('Enter number:'))
+if num>=18:
+    print('Yes')
+else:
+    print('No')
+    
+    Output:1
+    ========
+    Enter number:12
+    No
+    
+    Output:2
+    ========
+    Enter number:24
+    Yes
